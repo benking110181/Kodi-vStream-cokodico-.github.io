@@ -62,3 +62,5 @@ collections:
   #redirects:
     #output: true
     
+
+theme: jekyll-theme-cayman
